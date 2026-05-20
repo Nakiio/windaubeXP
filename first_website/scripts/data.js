@@ -67,7 +67,7 @@ export const profileContent = `## -- Chauve Eliot
 
 | À propos de moi | Profil |
 | :--- | :---: |
-| Passionné d'**informatique** depuis mon plus jeune âge, mon aventure technologique a commencé très tôt : j'ai eu mon **premier ordinateur dès le CE1**. 🖥️<br><br>Depuis ce jour, je n'ai jamais arrêté d'explorer. Véritable touche-à-tout, j'enchaîne les **projets variés** pour approfondir mes connaissances, que ce soit en programmation, en système ou en réseau.<br><br>> "Apprendre, tester, créer : c'est ce qui définit mon quotidien." | <img src="../assets/profile.png" alt="Profile" width="90%"> |
+| Passionné d'**informatique** depuis mon plus jeune âge, mon aventure technologique a commencé très tôt : j'ai eu mon **premier ordinateur dès le CE1**. 🖥️<br><br>Depuis ce jour, je n'ai jamais arrêté d'explorer. Véritable touche-à-tout, j'enchaîne les **projets variés** pour approfondir mes connaissances, que ce soit en programmation, en système ou en réseau.<br><br>> "Apprendre, tester, créer : c'est ce qui définit mon quotidien." | <img src="/first_website/assets/profile.png" alt="Profile" width="90%"> |
 
 ---
 
