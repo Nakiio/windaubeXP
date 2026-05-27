@@ -218,7 +218,7 @@ function load_windows (width, height, top, left, title_text, item, id) {
 		"<a style='text-decoration: none;color:black;' href='https://github.com/Nakiio'><span class=\"underline\">G</span>ithub</a>", 
 		"<a style='text-decoration: none;color:black;' href='https://www.linkedin.com/in/eliot-chauve-59061232a/'><span class=\"underline\">L</span>inkedIn</a>",
 		"<a style='text-decoration: none;color:black;' href='https://huggingface.co/nakiio'><span class=\"underline\">H</span>gginface</a>", 
-		"<a style='text-decoration: none;color:black;' href='/first_website/assets/CV Eliot.pdf'><span class=\"underline\">C</span>v</a>", 
+		"<a style='text-decoration: none;color:black;' href='/windaubeXP/first_website/assets/CV Eliot.pdf'><span class=\"underline\">C</span>v</a>", 
 		"<a style='text-decoration: none;color:black;' href='mailto:eliot.chauve@epitech.eu'><span class=\"underline\">E</span>mail</a>"];
 
 	for (var i = 0; i < opts.length; i++) {
