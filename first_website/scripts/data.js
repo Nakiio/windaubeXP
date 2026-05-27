@@ -67,7 +67,7 @@ export const profileContent = `## -- Chauve Eliot
 
 | À propos de moi | Profil |
 | :--- | :---: |
-| Passionné d'**informatique** depuis mon plus jeune âge, mon aventure technologique a commencé très tôt : j'ai eu mon **premier ordinateur dès le CE1**. 🖥️<br><br>Depuis ce jour, je n'ai jamais arrêté d'explorer. Véritable touche-à-tout, j'enchaîne les **projets variés** pour approfondir mes connaissances, que ce soit en programmation, en système ou en réseau.<br><br>> "Apprendre, tester, créer : c'est ce qui définit mon quotidien." | <img src="/first_website/assets/profile.png" alt="Profile" width="90%"> |
+| Passionné d'**informatique** depuis mon plus jeune âge, mon aventure technologique a commencé très tôt : j'ai eu mon **premier ordinateur dès le CE1**. 🖥️<br><br>Depuis ce jour, je n'ai jamais arrêté d'explorer. Véritable touche-à-tout, j'enchaîne les **projets variés** pour approfondir mes connaissances, que ce soit en programmation, en système ou en réseau.<br><br>> "Apprendre, tester, créer : c'est ce qui définit mon quotidien." | <img src="./assets/profile.png" alt="Profile" width="90%"> |
 
 ---
 
@@ -91,7 +91,7 @@ Grand amateur de pop-culture, j'adore me plonger dans des univers captivants.
 La musique accompagne chacune de mes sessions de code. Mes playlists sont éclectiques : du son bien rythmé pour rester focus aux mélodies plus calmes pour concevoir l'architecture d'un projet. 
 
 ### 📚 Lecture
-Curieux de nature, la lecture est pour moi un excellent moyen de m'évader ou d'apprendre. J'oscille entre des **romans de fiction** (notamment de la SF et de la fantasy) et des **livres plus techniques ou de développement personnel** pour continuer de grandir, une page après l'autre.`;
+Curieux de nature, la lecture est pour moi un excelleprofile.pngnt moyen de m'évader ou d'apprendre. J'oscille entre des **romans de fiction** (notamment de la SF et de la fantasy) et des **livres plus techniques ou de développement personnel** pour continuer de grandir, une page après l'autre.`;
 
 const allAppsContent = `# AllApps - Hub de Productivité Personnel
 
